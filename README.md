@@ -1,6 +1,10 @@
 # mlg2msl
 MegaLogViewer .mlg to .msl file converter (.csv also supported)
 
+## Installation
+Have python3 installed on your computer.
+Download the mlg2msl.py and run it.
+That's it, you shouldn't need more.
 
 ## Usage
 ```
@@ -12,3 +16,4 @@ MegaLogViewer .mlg to .msl file converter (.csv also supported)
 ```
 
 LLM notice: Created with the help of LLM.
+It's less than 200 LOC - easy to audit.
